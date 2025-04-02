@@ -55,3 +55,9 @@ src/interface/android/*.apk
 src/interface/android/*.apk.idsig
 src/interface/android/*.keystore
 src/interface/android/local.properties
+
+venv/
+__pycache__/
+*.pyc
+.env
+venv/
